@@ -1,0 +1,15 @@
+body
+{
+    background-color: plum;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.arpita
+{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: relative;
+
+}
